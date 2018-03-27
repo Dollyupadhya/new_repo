@@ -22,7 +22,7 @@ while(r.hasNext())
 {
 	Product pr=(Product)r.next();
 System.out.println(pr.pro_id +" " +pr.pro_name +" " +pr.pro_price);
-}
+}//
 System.out.println("---------");
 HashSet<Product> hs=new HashSet<Product>();
 hs.add(s1);
@@ -38,13 +38,7 @@ System.out.println(pr.pro_id +" " +pr.pro_name +" " +pr.pro_price);
 //changed
 //latest_Branch
 
-<<<<<<< Upstream, based on origin/latest_branch
 // Terminal3
-=======
-//Collection
-// Abc
-
->>>>>>> a1ffffe A1
 }
 }
 }
