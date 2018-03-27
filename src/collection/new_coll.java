@@ -38,7 +38,13 @@ System.out.println(pr.pro_id +" " +pr.pro_name +" " +pr.pro_price);
 //changed
 //latest_Branch
 
+<<<<<<< Upstream, based on origin/latest_branch
 // Terminal3
+=======
+//Collection
+// Abc
+
+>>>>>>> a1ffffe A1
 }
 }
 }
