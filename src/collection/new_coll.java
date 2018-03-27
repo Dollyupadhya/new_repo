@@ -35,6 +35,9 @@ while(r1.hasNext())
 	Product pr=(Product)r1.next();
 System.out.println(pr.pro_id +" " +pr.pro_name +" " +pr.pro_price);
 //changed
+
+
+// Terminal
 }
 }
 }
